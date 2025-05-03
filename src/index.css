@@ -1,0 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
+/* hide horizontal scrollbar on WebKit (Projects carousel) */
+::-webkit-scrollbar {
+  display: none;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
