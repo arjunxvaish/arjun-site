@@ -16,9 +16,10 @@ const projects = [
 export default function Projects() {
   return (
     <section
-      id="projects"
-      className="bg-gradient-to-r from-teal-50 via-purple-50 to-amber-50 py-24 px-4 sm:px-6"
-    >
+  id="projects"
+  className="w-full overflow-hidden bg-gradient-to-r from-teal-50 via-purple-50 to-amber-50 py-24 px-4 sm:px-6"
+>
+
       <div className="mx-auto max-w-6xl">
         <h2 className="mb-8 text-4xl font-bold text-gray-900">Projects</h2>
 

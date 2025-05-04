@@ -39,9 +39,9 @@ const items = [
 export default function Experience() {
   return (
     <section
-      id="experience"
-      className="bg-gradient-to-r from-purple-100 via-indigo-100 to-blue-50 py-20 px-4 sm:px-6"
-    >
+  id="certifications"
+  className="w-full overflow-hidden bg-gradient-to-r from-amber-50 via-purple-50 to-teal-50 py-20 px-4 sm:px-6"
+>
       <div className="relative mx-auto max-w-5xl">
         {/* gradient spine */}
         <div className="absolute left-3 top-0 h-full w-[2px] bg-gradient-to-b from-purple-400 via-indigo-500 to-amber-400" />

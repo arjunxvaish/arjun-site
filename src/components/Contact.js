@@ -4,9 +4,9 @@ export default function Contact() {
 
   return (
     <footer
-      id="contact"
-      className="bg-slate-900 text-slate-100 py-16 px-4 sm:px-6"
-    >
+  id="contact"
+  className="w-full overflow-hidden bg-slate-900 text-slate-100 py-16 px-4 sm:px-6"
+>
       <div className="mx-auto max-w-5xl text-center">
         <h2 className="mb-8 text-3xl font-bold">Let’s connect</h2>
 

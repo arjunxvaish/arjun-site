@@ -32,9 +32,9 @@ const awards = [
   export default function Awards() {
     return (
       <section
-        id="awards"
-        className="bg-gradient-to-r from-amber-50 via-purple-50 to-teal-50 py-20 px-4 sm:px-6"
-      >
+  id="certifications"
+  className="w-full overflow-hidden bg-gradient-to-r from-amber-50 via-purple-50 to-teal-50 py-20 px-4 sm:px-6"
+>
         <div className="mx-auto max-w-5xl">
           <h2 className="mb-12 text-4xl font-bold text-gray-900">Awards</h2>
   
