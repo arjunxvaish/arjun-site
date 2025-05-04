@@ -1,7 +1,7 @@
 const projects = [
   {
     img: `${process.env.PUBLIC_URL}/marble.png`,
-    title: "3D Marble Race Game",
+    title: "3D Marble Race Game (PC)",
     blurb: "React Three Fiber + Rapier physics",
     link: "https://arjunxvaish.github.io/Sphere-Sprint/",
   },
