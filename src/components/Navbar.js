@@ -9,7 +9,7 @@ export default function Navbar() {
       <nav className="mx-auto flex max-w-6xl items-center justify-between px-4 sm:px-6 py-3">
         {/* logo / name */}
         <a href="#home" className="text-xl font-semibold">
-          Arjun<span className="text-purple-600">.</span>
+          Arjun<span className="text-purple-600"></span>
         </a>
 
         {/* hamburger (mobile) */}
