@@ -1,3 +1,4 @@
+// src/components/Contact.js
 export default function Contact() {
   const IMG = process.env.PUBLIC_URL; // base path
 
@@ -10,12 +11,6 @@ export default function Contact() {
         <h2 className="mb-8 text-3xl font-bold">Let’s connect</h2>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-8">
-          {/* phone */}
-          <div className="flex items-center gap-3">
-            <img src={`${IMG}/phone.png`} alt="Phone" className="h-6 w-6" />
-            (206) 787‑2774
-          </div>
-
           {/* email */}
           <a
             href="mailto:arjunvaish22@gmail.com"
@@ -42,7 +37,7 @@ export default function Contact() {
         </div>
 
         <p className="mt-10 text-xs text-slate-400">
-          © {new Date().getFullYear()} Arjun Vaish
+          © {new Date().getFullYear()} Arjun Vaish
         </p>
       </div>
     </footer>
