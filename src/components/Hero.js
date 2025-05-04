@@ -7,13 +7,6 @@ export default function Hero() {
         <h1 className="text-4xl sm:text-6xl md:text-8xl font-extrabold text-white drop-shadow-lg">
           Hi, I’m Arjun
         </h1>
-  
-        <a
-          href="#experience"
-          className="mt-8 inline-block rounded-md bg-white/90 px-6 py-3 text-sm font-semibold text-purple-600 shadow hover:bg-white"
-        >
-          See my work ↓
-        </a>
       </section>
     );
   }

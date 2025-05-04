@@ -32,7 +32,7 @@ const awards = [
   export default function Awards() {
     return (
       <section
-  id="certifications"
+  id="awards"
   className="w-full overflow-hidden bg-gradient-to-r from-amber-50 via-purple-50 to-teal-50 py-20 px-4 sm:px-6"
 >
         <div className="mx-auto max-w-5xl">

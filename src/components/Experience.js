@@ -39,7 +39,7 @@ const items = [
 export default function Experience() {
   return (
     <section
-  id="certifications"
+  id="experience"
   className="w-full overflow-hidden bg-gradient-to-r from-amber-50 via-purple-50 to-teal-50 py-20 px-4 sm:px-6"
 >
       <div className="relative mx-auto max-w-5xl">
