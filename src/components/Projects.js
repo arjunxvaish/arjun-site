@@ -2,7 +2,7 @@ const projects = [
   {
     img: `${process.env.PUBLIC_URL}/marble.png`,
     title: "3D Marble Race Game (Desktop only)",
-    blurb: "A cool rolling ball game with real world physics",
+    blurb: "A cool rolling ball game with real world physics.",
     link: "https://arjunxvaish.github.io/Sphere-Sprint/",
   },
   {
