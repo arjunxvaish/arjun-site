@@ -1,40 +1,41 @@
 const items = [
   {
-    title: "Remote Trading Intern · Single Family Office (Singapore)",
+    title: "Private Mentorship · Dragonstone Capital (Singapore)",
     date: "Apr 2025 – Present",
     points: [
-      "Working under former Goldman Sachs & J.P. Morgan distressed debt trader.",
-      "Building QuantConnect strategies inspired by institutional frameworks.",
-      "Gaining exposure to professional convertible bond arbitrage and distressed debt.",
+      "Receiving direct mentorship from a former Goldman Sachs & J.P. Morgan distressed debt trader.",
+      "Discussing institutional trading frameworks, portfolio construction, and capital deployment across global macro themes.",
+      "Shadowing the investment process of a $3B single family office with exposure to special situations and convertible bond arbitrage."
     ],
   },
   {
-    title: "Mentee · Institute of Trading & Portfolio Management",
-    date: "Mar 2025 – Apr 2025",
+    title: "Mentee · Institute of Trading & Portfolio Management (Phuket)",
+    date: "Mar 2025 – Apr 2025",
     points: [
-      "Mentored by ex-Goldman Sachs, ex-Lehman Brothers traders on professional trading strategies.",
-      "Designed hedged options plays and sized risk per ITPM core‑tier framework.",
-      "Developed advanced market analysis techniques using professional indicators and macroeconomic models.",
+      "Mentored by ex-Goldman Sachs and ex-Lehman Brothers traders based in Phuket on structured professional trading methods.",
+      "Designed hedged options plays and performed risk sizing per the ITPM Core-Tier portfolio model.",
+      "Learned multi-timeframe macro analysis and institutional-grade execution strategy under tight risk constraints."
     ],
   },
   {
-    title: "Chief Trading Officer · Algorithmic Trading Club (UW)",
+    title: "Chief Trading Officer · Algorithmic Trading Club (University of Washington)",
     date: "Mar 2024 – Jan 2025",
     points: [
-      "Secured QuantConnect partnership; hosted Jane Street talks.",
-      "Managed $10 K long/short equity book.",
+      "Secured a strategic partnership with QuantConnect and organized industry talks with Jane Street and Morgan Stanley.",
+      "Led a $10K long/short equity portfolio using multi-leg options structures to maximize asymmetric payoffs.",
     ],
   },
   {
-    title: "Algorithm Dev · QuantConnect",
+    title: "Algorithm Developer · QuantConnect (Seattle)",
     date: "Jan 2025",
     points: [
-      "Developed an algorithm which has achieved a 7699% cumulative‑return since 2005",
-      "Beat the S&P 500 every calendar year since inception and continues to outperform YTD 2025.",
-      "Stress‑tested across 2008 GFC, COVID‑19 crash & 2022 rate‑hike regime without breaching risk limits.",
+      "Built a quantitative strategy that achieved a 7,699% cumulative return since 2005, consistently outperforming the S&P 500.",
+      "Maintained risk-adjusted returns through the 2008 GFC, COVID-19 crash, and 2022 tightening cycle without breaching drawdown limits.",
+      "Engineered a resilient backtest framework with Python, pandas, and NumPy for robust alpha validation."
     ],
   },
 ];
+
 
 export default function Experience() {
   return (
