@@ -1,14 +1,5 @@
 const items = [
   {
-    title: "Private Mentorship · Dragonstone Capital (Remote, Singapore HQ)",
-    date: "Apr 2025 – Present",
-    points: [
-      "Receiving direct mentorship from a former Goldman Sachs & J.P. Morgan distressed debt trader.",
-      "Discussing institutional trading frameworks, portfolio construction, and capital deployment across global macro themes.",
-      "Shadowing the investment process of a $3B single family office with exposure to special situations and convertible bond arbitrage."
-    ],
-  },
-  {
     title: "Mentee · Institute of Trading & Portfolio Management (Remote, Phuket HQ)",
     date: "Mar 2025 – Apr 2025",
     points: [
