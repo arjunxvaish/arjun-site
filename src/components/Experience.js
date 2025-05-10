@@ -1,6 +1,6 @@
 const items = [
   {
-    title: "Private Mentorship · Dragonstone Capital (Singapore)",
+    title: "Private Mentorship · Dragonstone Capital (Remote, Singapore HQ)",
     date: "Apr 2025 – Present",
     points: [
       "Receiving direct mentorship from a former Goldman Sachs & J.P. Morgan distressed debt trader.",
@@ -9,7 +9,7 @@ const items = [
     ],
   },
   {
-    title: "Mentee · Institute of Trading & Portfolio Management (Phuket)",
+    title: "Mentee · Institute of Trading & Portfolio Management (Remote, Phuket HQ)",
     date: "Mar 2025 – Apr 2025",
     points: [
       "Mentored by ex-Goldman Sachs and ex-Lehman Brothers traders based in Phuket on structured professional trading methods.",

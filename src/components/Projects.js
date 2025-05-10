@@ -1,14 +1,14 @@
 const projects = [
   {
     img: `${process.env.PUBLIC_URL}/marble.png`,
-    title: "3D Marble Race Game (PC)",
-    blurb: "React Three Fiber + Rapier physics",
+    title: "3D Marble Race Game (Desktop only)",
+    blurb: "A cool rolling ball game with real world physics",
     link: "https://arjunxvaish.github.io/Sphere-Sprint/",
   },
   {
     img: `${process.env.PUBLIC_URL}/algo.png`,
     title: "QuantConnect 7699 % Algo Backtest",
-    blurb: "Out-performed SPX through 2008 & COVID crashes.",
+    blurb: "Out-performed SPY buy-and-hold by 7,000% through 2008 & COVID crashes.",
     link: "https://www.quantconnect.com/terminal/processCache/?request=embedded_backtest_08f2b11694e508dca8310697f62dfded.html",
   },
 ];
