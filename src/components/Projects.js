@@ -1,5 +1,11 @@
 const projects = [
   {
+    img: `${process.env.PUBLIC_URL}/blog.png`,
+    title: "Trading Blog: Arjun’s Edge",
+    blurb: "Macro insights, trade breakdowns, and live equity curve setups — built from scratch.",
+    link: "https://arjunxvaish.github.io/my-dark-blog-main",
+  },
+  {
     img: `${process.env.PUBLIC_URL}/marble.png`,
     title: "3D Marble Race Game (Desktop only)",
     blurb: "A cool rolling ball game with real world physics.",

@@ -10,9 +10,16 @@ export default function Hero() {
 
       <p className="mt-4 text-lg sm:text-xl text-white/90">
         Part-time trader, full-time debugger.
-        <br />
-
       </p>
+
+      <a
+        href="https://arjunxvaish.github.io/my-dark-blog-main"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="mt-8 inline-block px-6 py-3 bg-white text-black font-semibold text-lg rounded-full shadow-md hover:bg-black hover:text-white transition-colors duration-300"
+      >
+        Dive into My Trading Strategies & Blog
+      </a>
     </section>
   );
 }
