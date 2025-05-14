@@ -1,5 +1,14 @@
 const items = [
   {
+    title: "Remote Trading Intern · Dragonstone Capital Management (Remote, Singapore)",
+    date: "May 2025 – Present",
+    points: [
+      "Working under ex-Goldman Sachs and ex-JP Morgan distressed debt trader managing a USD 3 billion multi-strategy family office.",
+      "Learning discretionary and systematic strategies across credit, equities, rates, FX, and options.",
+      "Studying trade structuring, macro analysis, risk frameworks, and capital allocation across the book."
+    ],
+  },
+  {
     title: "Mentee · Institute of Trading & Portfolio Management (Remote, Phuket HQ)",
     date: "Mar 2025 – Apr 2025",
     points: [
