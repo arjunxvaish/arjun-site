@@ -1,18 +1,35 @@
 const items = [
   {
-    title: "Remote Trading Intern · Dragonstone Capital Management (Remote, Singapore)",
-    date: "May 2025 – Present",
+    title: "Mentee · Dragonstone Capital Management (Remote, Singapore)",
+    date: "May 2025 – Aug 2025",
     points: [
-      "Working under ex-Goldman Sachs and ex-JP Morgan distressed debt trader managing a USD 3 billion multi-strategy family office.",
-      "Learning discretionary and systematic strategies across credit, equities, rates, FX, and options.",
-      "Studying trade structuring, macro analysis, risk frameworks, and capital allocation across the book."
+      "Mentored by ex-JP Morgan distressed debt trader managing a USD 3 billion multi-strategy portfolio",
+      "Learned discretionary and systematic strategies across credit, equities, rates, FX, and options.",
+      "Studied trade structuring, macro analysis, risk frameworks, and capital allocation across the book."
+    ],
+  },
+  {
+    title: "1st Place QuantConnect Quant League (International)",
+    date: "Q2 2025",
+    points: [
+      "Delivered +32% net return, Sharpe > 1.7.",
+      "Led strategy design and execution for team entry.",
+      "Outperformed Cornell, NYU, Imperial College London, and University of Texas.",
+      <a
+        href="https://www.quantconnect.com/league/2025-q2/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="font-medium underline underline-offset-4 decoration-purple-600 hover:text-purple-700"
+      >
+        Official Leaderboard ↗
+      </a>,
     ],
   },
   {
     title: "Mentee · Institute of Trading & Portfolio Management (Remote, Phuket HQ)",
     date: "Mar 2025 – Apr 2025",
     points: [
-      "Mentored by ex-Goldman Sachs and ex-Lehman Brothers traders based in Phuket on structured professional trading methods.",
+      "Mentored by ex-Goldman Sachs and ex-JP Morgan traders based in Phuket on structured professional trading methods.",
       "Designed hedged options plays and performed risk sizing per the ITPM Core-Tier portfolio model.",
       "Learned multi-timeframe macro analysis and institutional-grade execution strategy under tight risk constraints."
     ],

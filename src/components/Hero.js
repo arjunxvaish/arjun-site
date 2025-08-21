@@ -8,10 +8,6 @@ export default function Hero() {
         Hi, I’m Arjun
       </h1>
 
-      <p className="mt-4 text-lg sm:text-xl text-white/90">
-        Part-time trader, full-time debugger.
-      </p>
-
       <a
         href="https://arjunxvaish.github.io/my-dark-blog-main"
         target="_blank"

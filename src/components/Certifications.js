@@ -10,6 +10,11 @@ const certs = [
     year: "2026",
   },
   {
+    img: `${IMG}/dscap.png`,
+    title: "Dragonstone Capital Management",
+    year: "2025",
+  },
+  {
     img: `${IMG}/akuna.png`,
     title: "Akuna Capital Options 101",
     year: "2025",

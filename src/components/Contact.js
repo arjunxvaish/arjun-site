@@ -18,22 +18,7 @@ export default function Contact() {
           >
             <img src={`${IMG}/gmail.png`} alt="Gmail" className="h-6 w-6" />
             arjunvaish22@gmail.com
-          </a>
-
-          {/* LinkedIn */}
-          <a
-            href="https://www.linkedin.com/in/arjun-vaish"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center gap-3 hover:text-purple-300"
-          >
-            <img
-              src={`${IMG}/linkedin.png`}
-              alt="LinkedIn"
-              className="h-6 w-6"
-            />
-            LinkedIn
-          </a>
+          </a>        
         </div>
 
         <p className="mt-10 text-xs text-slate-400">
